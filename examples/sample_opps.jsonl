@@ -1,0 +1,7 @@
+{"source": "sample", "title": "Python 定时数据校验流水线搭建", "url": "https://example.com/opp/001", "description": "多源 CSV 采集后做口径对齐、差异比对打标，定时跑批并输出校验报告。", "stack": ["python", "自动化", "数据质量"], "budget": "面议", "location": "远程", "posted_at": "2026-11-16"}
+{"source": "sample", "title": "公开评论区意图信号整理工具", "url": "https://example.com/opp/002", "description": "按关键词汇总公开内容下的评论，按意图分级整理成表格，只读整理不做自动回复。", "stack": ["python", "爬虫"], "budget": "固定预算", "location": "远程", "posted_at": "2026-11-15"}
+{"source": "sample", "title": "React 企业落地页视觉改版", "url": "https://example.com/opp/003", "description": "按设计稿调整组件样式与响应式布局，交互动效优化。", "stack": ["react", "css"], "budget": "面议", "location": "上海", "posted_at": "2026-11-14"}
+{"source": "sample", "title": "Python 课设代写", "url": "https://example.com/opp/004", "description": "代交课程作业，按份结算。", "stack": ["python"], "budget": "按份", "location": "线上", "posted_at": "2026-11-13"}
+{"source": "sample", "title": "Python 定时数据校验流水线搭建（重复条目）", "url": "https://example.com/opp/001", "description": "与第一条相同链接，用于验证去重逻辑。", "stack": ["python", "自动化"], "budget": "面议", "location": "远程", "posted_at": "2026-11-16"}
+{"source": "sample", "title": "社群运营助理日常发帖", "url": "https://example.com/opp/006", "description": "维护社群日常发帖与互动，不需要开发能力。", "stack": ["运营"], "budget": "时薪", "location": "北京", "posted_at": "2026-11-12"}
+{"source": "sample", "title": "大模型 API 接口集成与报表推送", "url": "https://example.com/opp/007", "description": "接入大模型接口，把结构化结果定时推送到群与邮箱，含重试与日志。", "stack": ["python", "api", "自动化"], "budget": "面议", "location": "远程", "posted_at": "2026-11-12"}

@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地数据库与运行产物
+*.db
+*.sqlite3
+digest_out/
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
