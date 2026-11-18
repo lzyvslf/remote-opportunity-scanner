@@ -105,6 +105,12 @@ store.mark_status("https://example.com/opp/001", "applied")
 - 样例数据全部为合成数据；真实使用时应尊重各数据源的服务条款与 robots 约定，数据归属对应来源与发布方。
 - 仓库不含任何交易策略、荐股内容或收益承诺。
 
-## 六、许可证
+## 六、联系与合作
+
+- GitHub 主页：https://github.com/lzyvslf
+- 问题与建议：在本仓库 [Issues](https://github.com/lzyvslf/remote-opportunity-scanner/issues) 留言。
+- 基于本示例的部署配置、流程集成、数据采集校验或自动化脚本咨询，可通过 Issues 或 GitHub 主页联系。
+
+## 七、许可证
 
 MIT，见 [LICENSE](LICENSE)。
